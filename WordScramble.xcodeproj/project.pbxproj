@@ -19,6 +19,7 @@
 		CC889316298A027A007B690B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CC889318298A027B007B690B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC88931B298A027B007B690B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CC889322298B603A007B690B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		CC889308298A027A007B690B = {
 			isa = PBXGroup;
 			children = (
+				CC889322298B603A007B690B /* README.md */,
 				CC889313298A027A007B690B /* WordScramble */,
 				CC889312298A027A007B690B /* Products */,
 			);
