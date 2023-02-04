@@ -46,6 +46,7 @@ struct ContentView: View {
         /**
          Make our new words slide in much more nicely
          */
+        
         withAnimation {
             usedWords.insert(answer, at: 0)
         }
